@@ -36,7 +36,7 @@ const projects = [
     links: [
       {
         label: "GitHub",
-        url: "https://github.com/AnsExp/pdf_storage",
+        url: "https://github.com/AnsExp/document-vault-api",
         icon: Github
       }
     ]
@@ -50,7 +50,7 @@ const projects = [
     links: [
       {
         label: "GitHub",
-        url: "https://github.com/AnsExp/Notepad",
+        url: "https://github.com/AnsExp/notepad",
         icon: Github
       }
     ]

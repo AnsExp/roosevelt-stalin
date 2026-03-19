@@ -15,7 +15,7 @@ function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.linkedin.com/in/roosevelt-remache-abrigo-5888b9293/"
+          href="https://www.linkedin.com/in/roosevelt-stalin/"
           className="p-2 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-500 hover:text-[#0a66c2] hover:border-[#0a66c2]/50 transition-all"
         >
           <Linkedin size={20} />

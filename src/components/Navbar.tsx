@@ -7,9 +7,6 @@ function Navbar() {
         <a href="#inicio">
           <div className="flex items-center gap-3">
             <img src={logo} alt="Logo" className="h-8 w-8" />
-            <span className="text-xl font-bold bg-gradient-to-r from-violet-400 to-fuchsia-400 bg-clip-text text-transparent cursor-pointer">
-              RS
-            </span>
           </div>
         </a>
         <div className="hidden md:flex gap-8 text-sm font-medium text-zinc-400">
